@@ -18,6 +18,7 @@ EXTENSION_SYNONYMS = {
     "": ".txt",
     ".log": ".txt",
     ".tab": ".tsv",
+    ".odp": ".odt",
 }
 
 # default encoding that is returned by the process method. specify it
